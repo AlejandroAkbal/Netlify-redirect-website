@@ -30,6 +30,11 @@
   force = true
 
 [[redirects]]
+  from = "/github/api"
+  to = "https://github.com/AlejandroAkbal/Rule-34-API"
+  force = true
+
+[[redirects]]
   from = "/github/android"
   to = "https://github.com/AlejandroAkbal/Rule-34-App-Android"
   force = true
