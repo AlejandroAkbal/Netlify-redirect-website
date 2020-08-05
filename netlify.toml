@@ -1,0 +1,57 @@
+# ------------ Asset processing ------------
+
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = false
+  minify = true
+
+[build.processing.js]
+  bundle = false
+  minify = true
+
+[build.processing.images]
+  compress = true
+
+# ------------ Redirects ------------
+
+[[redirects]]
+  from = "/discord"
+  to = "https://discordapp.com/channels/656241666553806861/656481328958799872/672100977893179422"
+  force = true
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/Rule34App"
+  force = true
+
+[[redirects]]
+  from = "/twitterbot"
+  to = "https://twitter.com/Rule34_Bot"
+  force = true
+
+[[redirects]]
+  from = "/twitterfurbot"
+  to = "https://twitter.com/Rule34_FurBot"
+  force = true
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/AlejandroAkbal/Rule-34-App"
+  force = true
+
+[[redirects]]
+  from = "/android-github"
+  to = "https://github.com/AlejandroAkbal/Rule-34-App-Android"
+  force = true
+
+[[redirects]]
+  from = "/github-sponsor"
+  to = "https://liberapay.com/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/paypal"
+  to = "https://www.paypal.me/Alejandrorr7"
+  force = true
