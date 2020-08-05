@@ -37,8 +37,13 @@
 # Donations
 
 [[redirects]]
-  from = "/github/sponsor"
+  from = "/liberapay"
   to = "https://liberapay.com/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/github/sponsor"
+  to = "https://github.com/sponsors/AlejandroAkbal"
   force = true
 
 [[redirects]]
@@ -47,11 +52,11 @@
   force = true
 
 [[redirects]]
-  from = "/brave"
-  to = "https://brave.com/rap390"
+  from = "/coil"
+  to = "https://coil.com/u/AlejandroAkbal"
   force = true
 
 [[redirects]]
-  from = "/coil"
-  to = "https://coil.com/u/AlejandroAkbal"
+  from = "/brave"
+  to = "https://brave.com/rap390"
   force = true
