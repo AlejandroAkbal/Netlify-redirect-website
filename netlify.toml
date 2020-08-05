@@ -46,7 +46,7 @@
   force = true
 
 [[redirects]]
-  from = "/android-github"
+  from = "/github/android"
   to = "https://github.com/AlejandroAkbal/Rule-34-App-Android"
   force = true
 
@@ -54,7 +54,7 @@
 # Donations
 
 [[redirects]]
-  from = "/github-sponsor"
+  from = "/github/sponsor"
   to = "https://liberapay.com/AlejandroAkbal"
   force = true
 
