@@ -55,3 +55,13 @@
   from = "/paypal"
   to = "https://www.paypal.me/Alejandrorr7"
   force = true
+
+[[redirects]]
+  from = "/brave"
+  to = "https://brave.com/rap390"
+  force = true
+
+[[redirects]]
+  from = "/coil"
+  to = "https://coil.com/u/AlejandroAkbal"
+  force = true
