@@ -1,20 +1,62 @@
 # ------------ Redirects ------------ #
 
-# Examples
+# Social
 
 [[redirects]]
-  from = "/example"
-  to = "https://example.com"
+  from = "/discord"
+  to = "https://discord.gg/fUhYHSZ"
   force = true
-
-# Social examples
 
 [[redirects]]
   from = "/twitter"
-  to = "https://twitter.com/<user>"
+  to = "https://twitter.com/Rule34App"
   force = true
 
 [[redirects]]
-  from = "/instagram"
-  to = "https://instagram.com/<user>"
+  from = "/twitter/bot"
+  to = "https://twitter.com/Rule34_Bot"
+  force = true
+
+[[redirects]]
+  from = "/twitter/furbot"
+  to = "https://twitter.com/Rule34_FurBot"
+  force = true
+
+# GitHub
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/AlejandroAkbal/Rule-34-App"
+  force = true
+
+[[redirects]]
+  from = "/github/api"
+  to = "https://github.com/AlejandroAkbal/Rule-34-API"
+  force = true
+
+[[redirects]]
+  from = "/github/android"
+  to = "https://github.com/AlejandroAkbal/Rule-34-App-Android"
+  force = true
+
+# Donations
+
+[[redirects]]
+  from = "/liberapay"
+  to = "https://redirect.akbal.dev/liberapay"
+  force = true
+
+[[redirects]]
+  from = "/github/sponsor"
+  to = "https://redirect.akbal.dev/github/sponsor"
+  force = true
+
+[[redirects]]
+  from = "/paypal"
+  to = "https://redirect.akbal.dev/paypal"
+  force = true
+
+[[redirects]]
+  from = "/coil"
+  to = "https://redirect.akbal.dev/coil"
   force = true
