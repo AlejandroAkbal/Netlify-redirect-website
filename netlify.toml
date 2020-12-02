@@ -1,67 +1,20 @@
-# ------------ Redirects ------------
+# ------------ Redirects ------------ #
 
-# Social
+# Examples
 
 [[redirects]]
-  from = "/discord"
-  to = "https://discord.gg/fUhYHSZ"
+  from = "/example"
+  to = "https://example.com"
   force = true
+
+# Social examples
 
 [[redirects]]
   from = "/twitter"
-  to = "https://twitter.com/Rule34App"
+  to = "https://twitter.com/<user>"
   force = true
 
 [[redirects]]
-  from = "/twitterbot"
-  to = "https://twitter.com/Rule34_Bot"
-  force = true
-
-[[redirects]]
-  from = "/twitterfurbot"
-  to = "https://twitter.com/Rule34_FurBot"
-  force = true
-
-# GitHub
-
-[[redirects]]
-  from = "/github"
-  to = "https://github.com/AlejandroAkbal/Rule-34-App"
-  force = true
-
-[[redirects]]
-  from = "/github/api"
-  to = "https://github.com/AlejandroAkbal/Rule-34-API"
-  force = true
-
-[[redirects]]
-  from = "/github/android"
-  to = "https://github.com/AlejandroAkbal/Rule-34-App-Android"
-  force = true
-
-# Donations
-
-[[redirects]]
-  from = "/liberapay"
-  to = "https://liberapay.com/AlejandroAkbal"
-  force = true
-
-[[redirects]]
-  from = "/github/sponsor"
-  to = "https://github.com/sponsors/AlejandroAkbal"
-  force = true
-
-[[redirects]]
-  from = "/paypal"
-  to = "https://www.paypal.me/Alejandrorr7"
-  force = true
-
-[[redirects]]
-  from = "/coil"
-  to = "https://coil.com/u/AlejandroAkbal"
-  force = true
-
-[[redirects]]
-  from = "/brave"
-  to = "https://brave.com/rap390"
+  from = "/instagram"
+  to = "https://instagram.com/<user>"
   force = true
