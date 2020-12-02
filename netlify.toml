@@ -1,20 +1,23 @@
 # ------------ Redirects ------------ #
 
-# Examples
+# Donations
 
 [[redirects]]
-  from = "/example"
-  to = "https://example.com"
-  force = true
-
-# Social examples
-
-[[redirects]]
-  from = "/twitter"
-  to = "https://twitter.com/<user>"
+  from = "/liberapay"
+  to = "https://liberapay.com/AlejandroAkbal"
   force = true
 
 [[redirects]]
-  from = "/instagram"
-  to = "https://instagram.com/<user>"
+  from = "/github/sponsor"
+  to = "https://github.com/sponsors/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/paypal"
+  to = "https://www.paypal.me/Alejandrorr7"
+  force = true
+
+[[redirects]]
+  from = "/coil"
+  to = "https://coil.com/u/AlejandroAkbal"
   force = true
