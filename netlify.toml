@@ -1,5 +1,27 @@
 # ------------ Redirects ------------ #
 
+# Social
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/dev.to"
+  to = "https://dev.to/alejandroakbal"
+  force = true
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/alejandro-akbal"
+  force = true
+
 # Donations
 
 [[redirects]]
