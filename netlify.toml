@@ -18,6 +18,11 @@
   force = true
 
 [[redirects]]
+  from = "/medium"
+  to = "https://medium.com/@alejandroakbal"
+  force = true
+
+[[redirects]]
   from = "/linkedin"
   to = "https://www.linkedin.com/in/alejandro-akbal"
   force = true
