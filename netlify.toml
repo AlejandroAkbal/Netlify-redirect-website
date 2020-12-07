@@ -28,6 +28,11 @@
   force = true
 
 [[redirects]]
+  from = "/hackernoon"
+  to = "https://hackernoon.com/u/alejandroakbal"
+  force = true
+
+[[redirects]]
   from = "/medium"
   to = "https://medium.com/@alejandroakbal"
   force = true
