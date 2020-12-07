@@ -13,6 +13,11 @@
   force = true
 
 [[redirects]]
+  from = "/reddit"
+  to = "https://www.reddit.com/user/AlejandroAkbal"
+  force = true
+
+[[redirects]]
   from = "/dev.to"
   to = "https://dev.to/alejandroakbal"
   force = true
