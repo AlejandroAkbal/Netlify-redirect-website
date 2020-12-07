@@ -32,6 +32,13 @@
   to = "https://medium.com/@alejandroakbal"
   force = true
 
+# Games
+
+[[redirects]]
+  from = "/steam"
+  to = "https://steamcommunity.com/id/AlejandroAkbal"
+  force = true
+
 # Donations
 
 [[redirects]]
