@@ -3,18 +3,23 @@
 # Social
 
 [[redirects]]
-  from = "/twitter"
-  to = "https://twitter.com/AlejandroAkbal"
-  force = true
-
-[[redirects]]
   from = "/github"
   to = "https://github.com/AlejandroAkbal"
   force = true
 
 [[redirects]]
+  from = "/twitter"
+  to = "https://twitter.com/AlejandroAkbal"
+  force = true
+
+[[redirects]]
   from = "/reddit"
   to = "https://www.reddit.com/user/AlejandroAkbal"
+  force = true
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/alejandro-akbal"
   force = true
 
 [[redirects]]
@@ -25,11 +30,6 @@
 [[redirects]]
   from = "/medium"
   to = "https://medium.com/@alejandroakbal"
-  force = true
-
-[[redirects]]
-  from = "/linkedin"
-  to = "https://www.linkedin.com/in/alejandro-akbal"
   force = true
 
 # Donations
