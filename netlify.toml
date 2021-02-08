@@ -42,6 +42,11 @@
 # Donations
 
 [[redirects]]
+  from = "/donations"
+  to = "https://docs.r34.app/donations"
+  force = true
+
+[[redirects]]
   from = "/liberapay"
   to = "https://redirect.akbal.dev/liberapay"
   force = true
