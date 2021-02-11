@@ -1,5 +1,12 @@
 # ------------ Redirects ------------ #
 
+# Services
+
+[[redirects]]
+  from = "/blog"
+  to = "https://blog.akbal.dev"
+  force = true
+
 # Social
 
 [[redirects]]
