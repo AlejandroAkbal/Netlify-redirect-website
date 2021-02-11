@@ -59,6 +59,11 @@
   force = true
 
 [[redirects]]
+  from = "/donations"
+  to = "https://akbal.dev/donations"
+  force = true
+
+[[redirects]]
   from = "/github/sponsor"
   to = "https://github.com/sponsors/AlejandroAkbal"
   force = true
