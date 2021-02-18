@@ -1,11 +1,18 @@
-# Netlify redirect website
+# Netlify redirect service
 
-This is a repository that serves as an example of how to build a redirect website on Netlify.
-
-That is a website that redirects to other websites.
+Make a Netlify website that redirects any endpoint to any URL.
 
 ## Examples
 
-For example, you can use this to redirect from `https://redirect.example.com/example` to `https://example.com`.
+Imagine that you are using this on your **redirect**.example.com subdomain.
+
+Then you can redirect the following endpoints.
+
+- redirect.example.com/github --> github.com/example
+- redirect.example.com/twitter --> twitter.com/example
+- redirect.example.com/instagram --> instagram.com/example
+- redirect.example.com/paypal --> paypal.me/example
+
+## Usage
 
 Check the [netlify.toml](netlify.toml) file to modify the redirect rules.
