@@ -1,20 +1,17 @@
 # ------------ Redirects ------------ #
-
 # Examples
-
 [[redirects]]
-  from = "/example"
-  to = "https://example.com"
-  force = true
+from = "/example"
+to = "https://example.com"
+force = true
 
 # Social examples
+[[redirects]]
+from = "/twitter"
+to = "https://twitter.com/<user>"
+force = true
 
 [[redirects]]
-  from = "/twitter"
-  to = "https://twitter.com/<user>"
-  force = true
-
-[[redirects]]
-  from = "/instagram"
-  to = "https://instagram.com/<user>"
-  force = true
+from = "/instagram"
+to = "https://instagram.com/<user>"
+force = true
