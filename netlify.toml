@@ -6,19 +6,35 @@ for = "/*"
 X-Robots-Tag = "noindex"
 
 # ------------ Redirects ------------ #
-# Examples
+# Websites
 [[redirects]]
 from = "/example"
 to = "https://example.com"
 force = true
 
-# Social examples
+[[redirects]]
+from = "/blog"
+to = "https://blog.example.com"
+force = true
+
+# Social
+[[redirects]]
+from = "/github"
+to = "https://github.com/example"
+force = true
+
 [[redirects]]
 from = "/twitter"
-to = "https://twitter.com/<user>"
+to = "https://twitter.com/example"
 force = true
 
 [[redirects]]
 from = "/instagram"
-to = "https://instagram.com/<user>"
+to = "https://instagram.com/example"
+force = true
+
+# Donations
+[[redirects]]
+from = "/paypal"
+to = "https://www.paypal.me/example"
 force = true
