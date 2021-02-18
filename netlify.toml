@@ -1,4 +1,11 @@
 # ------------ Redirects ------------ #
+[[headers]]
+for = "/*"
+
+[headers.values]
+X-Robots-Tag = "noindex"
+
+# ------------ Redirects ------------ #
 # Examples
 [[redirects]]
 from = "/example"
