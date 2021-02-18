@@ -6,6 +6,6 @@ That is a website that redirects to other websites.
 
 ## Examples
 
-For example, to redirect from `/example` to `https://example.com`.
+For example, you can use this to redirect from `https://redirect.example.com/example` to `https://example.com`.
 
-Check the [netlify.toml](netlify.toml) file for more examples.
+Check the [netlify.toml](netlify.toml) file to modify the redirect rules.

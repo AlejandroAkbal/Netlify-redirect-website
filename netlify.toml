@@ -1,7 +1,12 @@
+# ------------ Headers ------------ #
+[[headers]]
+for = "/*"
+
+[headers.values]
+X-Robots-Tag = "noindex"
+
 # ------------ Redirects ------------ #
-
-# Social
-
+# Services
 [[redirects]]
   from = "/discord"
   to = "https://discord.gg/fUhYHSZ"
