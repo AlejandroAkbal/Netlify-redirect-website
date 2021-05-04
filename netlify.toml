@@ -6,7 +6,16 @@ for = "/*"
 X-Robots-Tag = "noindex"
 
 # ------------ Redirects ------------ #
+
 # Services
+
+[[redirects]]
+  from = "/status"
+  to = "https://stats.uptimerobot.com/7nrk9HmZ1m"
+  force = true
+
+# Social
+
 [[redirects]]
   from = "/discord"
   to = "https://discord.gg/fUhYHSZ"
